@@ -6,4 +6,15 @@
     border-style: solid;
     background-color: beige;
     border-radius: 12px;
+    width: 200px;
+    height: 150px;
+}
+.second{
+    max-width: min-content;
+    margin: 30px;
+    border: 30px;
+    border-color: beige;
+    border-style: solid;
+    background-color: beige;
+    border-radius: 12px;
 }
